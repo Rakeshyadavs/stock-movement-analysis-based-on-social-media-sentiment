@@ -46,7 +46,7 @@ Link- https://www.kaggle.com/datasets/equinxx/stock-tweets-for-sentiment-analysi
 ● We have 25 companies' stock data, for the maximum is Tesla(17,562 tweets). We conduct the analysis of Positive tweets with respect to Valuation, for Tesla, Negative Tweets and draw the correlation matrix for both of them. 
 
 ![4](https://github.com/Rakeshyadavs/stock-movement-analysis-based-on-social-media-sentiment/blob/main/sentiment%20analysis%20of%20stock%20tweets.ipynb)
-![5](https://github.com/Rakeshyadavs/stock-movement-analysis-based-on-social-media-sentiment/blob/main/sentiment%20analysis%20of%20stock%20tweets.ipynb)
+![5](https://github.com/Rakeshyadavs/stock-movement-analysis-based-on-social-media-sentiment/blob/main/README.md?plain=1)
 ![6](https://github.com/Rakeshyadavs/stock-movement-analysis-based-on-social-media-sentiment/blob/main/sentiment%20analysis%20of%20stock%20tweets.ipynb)
 ![7](https://https://github.com/Rakeshyadavs/stock-movement-analysis-based-on-social-media-sentiment/blob/main/sentiment%20analysis%20of%20stock%20tweets.ipynb)
 
